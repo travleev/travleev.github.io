@@ -1,5 +1,6 @@
-# usersite
-Source for the user website
+---
+
+---
 
 # Notes
 When two files, `index.html` and `index.md` are present the `html` is used and
@@ -24,3 +25,10 @@ gem 'github-pages', group: :jekyll_plugins
 ```
 >bundle exec jekyll serve
 ```
+
+## Links to md
+Local links can be used, for example {% raw %} `[home]({% link index.md %})` {%
+endraw%}, which renders to [home]({% link index.md %}). In order to make this
+link in webbrowser to link to an html and not to the original md file (which
+than will be downloaded), add to the target md file the front matter -- even
+empty. 

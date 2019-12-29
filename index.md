@@ -7,4 +7,4 @@
 
 # Notes
 
-* [On coding this site](README.md)
+* [On coding this site]({% link README.md %})
