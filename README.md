@@ -2,4 +2,25 @@
 Source for the user website
 
 # Notes
-When two files, ``index.html`` and ``index.md`` are present the ``html`` is used and no theme is applied (even when the front matter is added). 
+When two files, `index.html` and `index.md` are present the `html` is used and
+no theme is applied (even when the front matter is added). 
+
+## Check locally
+Look to this [article](https://help.github.com/en/enterprise/2.14/user/articles/setting-up-your-github-pages-site-locally-with-jekyll). In short:
+
+1. Create `Gemfile` with the following content:
+```
+source 'https://rubygems.org'
+gem 'github-pages', group: :jekyll_plugins
+```
+
+2. Run the command 
+```
+>sudo apt-get install libghc-zlib-dev
+>bundle install
+```
+
+1. Start serving with jekyll:
+```
+>bundle exec jekyll serve
+```
