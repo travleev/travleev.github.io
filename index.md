@@ -3,7 +3,8 @@
 
 # My projects on github
 
-* [numjuggler](https://github.com/travleev/numjuggler)
+* [travleev/numjuggler](https://github.com/travleev/numjuggler)
+* [inr-kit/numjuggler](https://github.com/inr-kit/numjuggler)
 
 # Notes
 
