@@ -2,6 +2,9 @@
 ---
 
 # My projects on github
+This table reflects my current focus. The complete list is
+[here](https://github.com/travleev?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=)
+
 
 | Repo                                                          | Travis  | PyPi   | Read the docs   | Description                            |
 | -----                                                         | ------- | ------ | --------------- | -------------                          |
@@ -13,4 +16,5 @@
 
 # Notes
 
+* [On versioning]({% link about_semver.md %})
 * [On coding this site]({% link README.md %})
