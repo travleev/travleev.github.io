@@ -16,5 +16,6 @@ This table reflects my current focus. The complete list is
 
 # Notes
 
+* [Why PyPI and how to set ``__version__``]({% link github-pypi-connection.md %})
 * [On versioning]({% link about_semver.md %})
 * [On coding this site]({% link README.md %})
