@@ -8,13 +8,14 @@ This table reflects my current focus. The complete list is
 
 | Repo                                                          | Travis  | PyPi   | Read the docs   | Description                            |
 | -----                                                         | ------- | ------ | --------------- | -------------                          |
-| [travleev/numjuggler](https://github.com/travleev/numjuggler) | [x]     | [ ]    | [x]             | renumber MCNP input                    |
+| [travleev/numjuggler](https://github.com/travleev/numjuggler) | [x]     | [x]    | [x]             | renumber MCNP input                    |
 | [inr-kit/twps](https://github.com/inr-kit/twps)               | [ ]     | [x]    | [ ]             | Evaluate Python snippets in text files |
 | [travleev/mip](https://github.com/travleev/mip)               | [ ]     | [ ]    | [ ]             | MCNP input parser                      |
 |                                                               |         |        |                 |                                        |
 
 
 # Notes
+Source code for this site: [github user's io pages](https://github.com/travleev/travleev.github.io) 
 
 * [Why PyPI and how to set ``__version__``]({% link github-pypi-connection.md %})
 * [On versioning]({% link about_semver.md %})
